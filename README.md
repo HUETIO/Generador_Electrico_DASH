@@ -1,5 +1,8 @@
 # ⚡ Generador Eléctrico Simulado en Python
 
+#  DIEGO ALEJANDRO SEPULVEDA HUETIO
+#POWERDC - DASH
+
 Este proyecto muestra cómo **simular un generador eléctrico** que convierte energía mecánica en energía eléctrica mediante el principio de inducción electromagnética.  
 Incluye una **bobina, imanes, rectificador, capacitor de filtro y carga resistiva** representados de forma numérica y gráfica con Python.
 
